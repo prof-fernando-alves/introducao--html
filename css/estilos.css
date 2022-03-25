@@ -1,3 +1,16 @@
-h1 {
-    color:red;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,500;1,700&display=swap');
+/*Comentario*/
+body {
+    background-color: rgb(236, 223, 215);
+}
+
+h2 {
+    color: rgb(18, 106, 156);
+}
+
+.container{
+    color: white;
+    background-color: red;
+    width: 200px;
+    height: 100px;
 }
